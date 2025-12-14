@@ -1,4 +1,4 @@
-[![Nymph Nerds Production Banner](https://discord.gg/V6qa82Spxw)](https://discord.gg/V6qa82Spxw)
+[![Nymph Nerds Production Banner] (https://discord.gg/V6qa82Spxw)
 
 # Nordic Gleam Core
 *A Nymph Nerds Production*
