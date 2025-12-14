@@ -1,4 +1,4 @@
-[![Nymph Nerds Production Banner] (https://discord.gg/V6qa82Spxw)
+[![Nymph Nerds Production Banner](https://discord.gg/V6qa82Spxw)](https://discord.gg/V6qa82Spxw)
 
 # Nordic Gleam Core
 *A Nymph Nerds Production*
@@ -9,17 +9,6 @@
 **Nordic Gleam Core** reimagines Skyrim through a *lore-friendly, survival-focused lens*.  
 Built for players who crave challenge and immersion, this list enhances the vanilla experience with **PBR visuals**, **upscaled assets**, and **minimal landscape edits**—keeping Skyrim's soul intact while bringing it into a new generation.  
 Expect tougher hunting, harsher survival, and subtle world changes that make everything feel *fresh yet familiar*.
-
----
-
-## Pre-Required Setup
-To ensure a clean foundation, you must start with a **verified Skyrim Special Edition (Full AE)** setup.
-
-1. Install **Skyrim Special Edition** via Steam.  
-2. **Launch Skyrim SE once** to download all **Creation Club content**.  
-3. After the main menu appears, **close the game**.  
-4. In your Steam Library, **right-click Skyrim SE → Properties → Installed Files → Verify integrity of game files**.  
-5. Once the verification completes, your **Skyrim SE Steam folder is ready** for Wabbajack installation.
 
 ---
 
@@ -48,16 +37,28 @@ Requires **Skyrim Anniversary Edition 1.6.1170 (Full AE)**
 ---
 
 ## System Preparation
-Please prepare your system before running Wabbajack to ensure stability:
 
-1. Increase your **Windows pagefile** (≥ 20 GB recommended).  
-2. Install the latest **Visual C++ Redistributables** and **.NET Runtime**.  
-3. **Exclude** your Wabbajack and Skyrim folders from antivirus scanning.  
-4. In **Steam Settings**:
-   - Disable the Steam Overlay  
-   - Set game language to English  
-   - Disable Steam Cloud Saves  
-   - Right-click *Skyrim* → *Properties* → *Updates* → set to "Only update this game when I launch it"
+Before running Wabbajack, prepare your system to ensure stability and compatibility:
+
+1. **Increase your Windows pagefile** (≥ 20 GB recommended) to improve stability.  
+
+2. **Install required dependencies:**
+   - Latest **Visual C++ Redistributables**  
+   - **.NET 4.8, .NET 8, and .NET 9** (required for Wabbajack)
+
+3. **Configure antivirus:** Exclude your Wabbajack and Skyrim folders from antivirus scanning.  
+
+4. **Steam Settings & Skyrim SE Setup:**
+   - First, **install Skyrim Special Edition** via Steam if you haven't already.  
+   - **Launch Skyrim SE once** to download all **Creation Club content**. Wait for the main menu to appear.  
+   - **Close Skyrim SE** completely.  
+   - **Verify game files:** In your Steam Library, right-click *Skyrim SE* → *Properties* → *Installed Files* → **Verify integrity of game files**. Wait for verification to complete.  
+   - **Configure Steam Settings:**
+     - Disable the Steam Overlay  
+     - Set game language to **English**  
+     - Disable Steam Cloud Saves  
+     - Right-click *Skyrim SE* → *Properties* → *Updates* → set to **"Only update this game when I launch it"**  
+   - Your **Skyrim SE Steam folder is now ready** for Wabbajack installation.
 
 ---
 
