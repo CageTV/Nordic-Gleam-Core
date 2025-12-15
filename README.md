@@ -100,6 +100,17 @@ These files must be downloaded manually and placed in your Wabbajack **downloads
 
 ---
 
+## 📋 Updates & Changelog
+
+Track all updates, bug fixes, and changes to Nordic Gleam Core:
+
+- **[Changelog](./changelog.md)** — Detailed list of all version updates, features added, mods updated, and fixes applied  
+- **[Versions](./versions.json)** — Machine-readable version history and metadata for automated tools  
+
+Check these files regularly to stay informed about improvements and new features!
+
+---
+
 ## Current Status
 **Status:** Alpha  
 **License:** [MIT License](./LICENSE)  
