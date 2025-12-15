@@ -12,6 +12,22 @@ Expect tougher hunting, harsher survival, and subtle world changes that make eve
 
 ---
 
+## 📚 Guides Hub
+
+We've written clear step-by-step guides to help you install and customize Nordic Gleam Core.
+
+👉 **[Start here: Guides Hub](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/GUIDES.md)**
+
+### Current Guides:
+- **[Installation Guide](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/INSTALLATION.md)** — Complete walkthrough for setting up Nordic Gleam Core  
+- **[CS Guide](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/CSGUIDE.md)** — Customization and Settings guide  
+- **[Performance Guide](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/PERFORMACE.md)** — Optimization tips for your system  
+- **[ParallaxGen Guide](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/PARALLAXGEN.md)** — Parallax mapping setup and configuration  
+
+> More guides are coming soon — this section will grow as the list evolves!
+
+---
+
 ## Things To Do
 - Survive the northern wilderness using food, warmth, and skill.  
 - Earn your keep through hunting, crafting, and trade.  
@@ -96,15 +112,25 @@ These files must be downloaded manually and placed in your Wabbajack **downloads
 
 ---
 
-## Credits & Acknowledgements
-Nordic Gleam Core would not exist without the creativity and hard work of the Skyrim modding community.  
-Special thanks to:
+## 👥 Contributors & Credits
 
+**Built with 💚 by CageTV & Nymph Nerds Production Team**
+
+Nordic Gleam Core would not exist without the creativity and hard work of the Skyrim modding community.
+
+### Core Team
+- **CageTV** — List development & curation  
+- **Nymph Nerds Production Team** — Design & coordination  
+
+### Special Thanks
+Enormous thanks to our dedicated testers and supporters who helped shape this list:
+- **Testers & Contributors:** Everyone who provided feedback and testing during development  
+- **Discord Community:** Constant support, ideas, and encouragement  
+
+### Acknowledgements
 - The **Wabbajack Team** for developing the automation tools that make this possible.  
 - **Bethesda Game Studios** for the foundation we continue to expand upon.  
-- All **mod authors** whose creations enrich this list and keep Skyrim thriving.  
-- The **Nordic Gleam contributors and testers** for shaping a stable and balanced experience.  
-- Everyone in the **Nymph Nerds Discord** for their constant feedback and support.
+- **All mod authors** whose creations enrich this list and keep Skyrim thriving 🌿  
 
 If your mod or work is featured in this list and you would like to be credited directly, please open an issue or reach out on Discord.
 
