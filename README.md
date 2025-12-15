@@ -37,18 +37,17 @@ We've written clear step-by-step guides to help you install and customize Nordic
 
 ---
 
-## System Requirements
-
-### Minimum
-- **CPU:** Intel i5 or equivalent  
-- **RAM:** 16 GB (32 GB recommended)  
-- **GPU:** NVIDIA 3060 Ti or better  
-- **Storage:** 290 GB free disk space  
-  - 185 GB for game files  
-  - 98 GB for downloads (can be deleted after installation)  
+## 🛠️ System Requirements
 
 ### Game Version
 Requires **Skyrim Anniversary Edition 1.6.1170 (Full AE)**
+
+| | **Minimum (1080p)** | **Recommended (1440p+)** |
+|---|---|---|
+| **CPU** | Intel 10th Gen / Ryzen 5 or higher | Intel 13th Gen / Ryzen 7600X or higher |
+| **GPU** | NVIDIA RTX 3060 Ti 8GB / Radeon RX 6800 or higher | NVIDIA RTX 4070 Ti 12GB / Radeon RX 7900XT or higher |
+| **RAM** | 32 GB System RAM | 32 GB System RAM |
+| **Storage** | SSD/NVME - 190GB Install, ~102GB Downloads | SSD/NVME - 190GB Install, ~102GB Downloads |
 
 ---
 
