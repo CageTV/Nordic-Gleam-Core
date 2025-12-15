@@ -114,18 +114,19 @@ These files must be downloaded manually and placed in your Wabbajack **downloads
 
 ## 👥 Contributors & Credits
 
-**Built with 💚 by CageTV & Nymph Nerds Production Team**
+**Built with 💚 by babyjaws, Rauty79, & Julio005 — Nymph Nerds Production**
 
 Nordic Gleam Core would not exist without the creativity and hard work of the Skyrim modding community.
 
 ### Core Team
-- **CageTV** — List development & curation  
-- **Nymph Nerds Production Team** — Design & coordination  
+- **babyjaws** — List development & curation  
+- **Rauty79** — Design & coordination  
+- **Julio005** — List development & curation  
 
 ### Special Thanks
 Enormous thanks to our dedicated testers and supporters who helped shape this list:
-- **Testers & Contributors:** Everyone who provided feedback and testing during development  
-- **Discord Community:** Constant support, ideas, and encouragement  
+- **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie** — Testing, feedback, and invaluable support  
+- **Discord Community** — Constant encouragement, ideas, and engagement  
 
 ### Acknowledgements
 - The **Wabbajack Team** for developing the automation tools that make this possible.  
