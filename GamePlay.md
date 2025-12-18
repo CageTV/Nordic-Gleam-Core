@@ -37,8 +37,8 @@ For example:
 -----------------------------------------------------------
 
 # Leveling  
-----------------------------Leveling-------------------  
----------------Time Based Enemy Scaling------------------
+
+# Time Based Enemy Scaling
 
 ## How It Works + How to Use
 Most mods (like *Experience*) treat the vanilla experience system as part of the player’s progression — XP gain is always good and beneficial.  
@@ -168,7 +168,6 @@ h3 {
 
 
 # Buying Perks  
-----------------------------Buying Perks--------------------------------
 
 Buy stats (**Health**, **Magicka**, **Stamina**, **Carry Weight**, **Movement Speed**) and perk points.  
 Easily enable or disable everything or change prices mid-game.  
