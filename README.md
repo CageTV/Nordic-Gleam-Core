@@ -1,64 +1,72 @@
+<!-- Main Menu Image -->
+
+<p align="center">
+  <img src="main-menu.png" alt="Nordic Gleam Core Main Menu">
+</p>
+
 # Nordic Gleam Core
-![Main Menu](./main-menu.png)
 
-**Nordic Gleam Core** is a large, gameplay-focused Skyrim Special Edition / Anniversary Edition modlist foundation built around **Community Shaders and Physically Based Rendering (PBR)**.
+*<sub><i>a Nymph Nerds Production</i></sub>*
 
-Rather than relying on ENB, this list uses modern shader technology and optimized PBR assets to achieve a clean, realistic visual presentation while maintaining **strong performance and stability**. The result is a visually modern Skyrim that does not sacrifice gameplay depth or frame consistency.
+<p align="center">
+  <a href="https://discord.gg/YOUR_DISCORD_INVITE">
+    <img src="THE-banner-mod-page.gif" alt="Nordic Gleam Core Discord">
+  </a>
+</p>
 
-Nordic Gleam Core is designed as a **complete gameplay and rendering foundation** — substantial in size, carefully curated, and intended for long-term play or further expansion.
+---
+
+## Overview
+
+**Nordic Gleam Core** is a **large, gameplay-focused Skyrim Special Edition / Anniversary Edition modlist foundation** built around **Community Shaders and a full Physically Based Rendering (PBR) workflow**.
+
+The list modernizes Skyrim’s visuals **without ENB**, while delivering a deeply interconnected gameplay experience centered on **survival, progression, time-based challenge, and consequence**.
+
+This is not a lightweight vanilla+ list — it is a **substantial, performance-conscious foundation** designed for long-term play and expansion.
 
 ---
 
 ## Visual & Technical Direction
 
+Nordic Gleam Core uses modern rendering technology while maintaining stability and performance:
+
 * **Community Shaders–based rendering**
-* **Full PBR pipeline** for landscapes, architecture, and world assets
-* **2K texture baseline** for optimal balance between fidelity and performance
+* **Full PBR material pipeline**
+* **2K texture baseline** (performance-oriented)
 * No ENB dependency
-* Performance-oriented asset selection
-* Modern lighting and material response without excessive overhead
+* Optimized asset selection
+* Stable lighting and material response
+* Designed for mid-to-high-end systems
 
-This is a **large download**, but every asset is chosen with purpose: visual consistency, modern rendering, and long-term stability.
-
----
-
-## Design Philosophy
-
-Nordic Gleam Core follows these core principles:
-
-* **Gameplay First** – Visuals support gameplay, not replace it
-* **Modern Rendering, Classic Identity** – Skyrim remains recognizably Nordic
-* **Performance-Conscious** – Visual upgrades without unnecessary bloat
-* **Meaningful Progression** – Power is earned, not given
-* **Survival & Consequence** – Preparation matters
+⚠️ **Note:** This is a **large download**. Size is intentional and reflects the use of PBR assets and shader-based rendering.
 
 ---
 
-## Core Gameplay Pillars
+## Gameplay Philosophy
 
-### Skills & Progression
+Nordic Gleam Core is built on the following principles:
 
-* Set of Skills
-* Complete Alchemy & Cooking Overhaul
-* Complete Crafting Overhaul Remastered
+* **Gameplay First** – Systems matter more than spectacle
+* **Earned Progression** – Power is never free
+* **Time Has Consequences** – The world evolves independently of the player
+* **Survival Is Foundational** – Preparation determines success
+* **Lore-Friendly** – Skyrim remains recognizably Nordic
 
-### Combat & Difficulty
+---
 
-* Engaging Combat – Keep Combat Dynamic at Higher Levels
-* Time-Based Enemy Scaling
-* Level Scaling_separator
-* WGO – Warrior Gameplay Overhaul SSE
+## Core Gameplay Systems
 
-### World Interaction & Consequences
+Nordic Gleam Core reshapes Skyrim into a survival-driven RPG through tightly integrated systems:
 
-* Corruption – Abusing Artifacts Has Consequences
-* Honed Metal
+* Survival and environmental pressure
+* Skill-based character growth
+* Quest-driven perk progression
+* Unleveled, world-based loot
+* Time-based enemy scaling
+* Economic tradeoffs for power
+* Artifact corruption and long-term consequences
 
-### Survival & Wilderness
-
-* Campfire
-* Frostfall
-* Huntsman – A Hunting Expansion
+Detailed breakdowns can be found in **GAMEPLAY.md**.
 
 ---
 
@@ -66,74 +74,54 @@ Nordic Gleam Core follows these core principles:
 
 Nordic Gleam Core is ideal for players who want:
 
-* A **modern-looking Skyrim without ENB**
+* A modern-looking Skyrim without ENB
 * Community Shaders + PBR visuals
-* Strong performance on mid-to-high-end systems
-* Deep gameplay and survival mechanics
-* A stable, expandable gameplay and rendering base
+* Performance-conscious 2K textures
+* Slower, more deliberate progression
+* Survival systems that actually matter
+* A stable base for future expansion
 
 ---
 
 ## What This Modlist Is NOT
 
-* Not an ENB showcase
-* Not an ultra-HD 4K/8K texture pack
-* Not a lightweight “vanilla+” list
-* Not a power fantasy
+* ❌ Not an ENB showcase
+* ❌ Not a 4K/8K ultra-HD texture pack
+* ❌ Not a lightweight vanilla+ setup
+* ❌ Not a power fantasy
+* ❌ Not a total conversion
 
-This is a **substantial, systems-driven foundation** — visually modern, gameplay-heavy, and performance-aware.
+This is a **systems-driven foundation**, not a visual tech demo.
+
+---
+
+## Project Scope & Intent
+
+Nordic Gleam Core is intended to be:
+
+* A **long-term gameplay foundation**
+* A **stable Community Shaders + PBR base**
+* Expandable without fighting conflicts
+* Suitable for both players and modlist authors
+
+Visuals support gameplay — they do not replace it.
+
+---
+
+## Community & Support
+
+Join the Discord for:
+
+* Updates and announcements
+* Support and troubleshooting
+* Modlist discussion and feedback
+* Future roadmap visibility
+
+👉 **Click the banner above to join the Discord**
 
 ---
 
 ## Status
 
-Actively curated. Intended as a long-term Community Shaders + PBR gameplay core.
-
----
-
-## System Requirements
-
-### Minimum
-- **CPU:** Intel i5 or equivalent  
-- **RAM:** 16 GB (32 GB recommended)  
-- **GPU:** NVIDIA 3060 Ti or better  
-- **Storage:** 290 GB free disk space  
-  - 185 GB for game files  
-  - 98 GB for downloads (can be deleted after installation)  
-
-### Game Version
-Requires **Skyrim Anniversary Edition 1.6.1170 (Full AE)**
-
----
-
-## System Preparation
-Please prepare your system before running Wabbajack to ensure stability:
-
-1. Increase your **Windows pagefile** (≥ 20 GB recommended).  
-2. Install the latest **Visual C++ Redistributables** and **.NET Runtime**.  
-3. **Exclude** your Wabbajack and Skyrim folders from antivirus scanning.  
-4. In **Steam Settings**:
-   - Disable the Steam Overlay  
-   - Set game language to English  
-   - Disable Steam Cloud Saves  
-   - Right-click *Skyrim* → *Properties* → *Updates* → set to “Only update this game when I launch it”
-
----
-
-## Additional Manual Downloads
-The following files must be downloaded manually and placed in your Wabbajack **downloads** folder before installation:
-
-- [Dodge MCO DXP v2.1.21](https://www.distaranimation.com/s/Dodge-MCO-DXP-v2121.zip)  
-- [SkyBirds SSE Edition v1.20](https://www.dropbox.com/scl/fi/tcbysvimqxajud8kp0bch/skyBirds-SSE-Edition-v1.20.7z?e=3&file_subpath=%2FData&rlkey=ts21h3253wspto4qe2htb4uh1&dl=0)
-
----
-
-## Current Status
-**Status:** Alpha  
-**License:** [MIT License](./LICENSE)  
-**Discord:** [Join the community](https://discord.gg/ezJVqBJvVj)  
-**Download:** Available on [Nexus Mods](https://www.nexusmods.com/)  
-
-> *A collaborative Skyrim modlist — immersive, magical, and consent-driven.*
-
----
+Actively curated and maintained.
+Focused on stability, cohesion, and long-term viability.
