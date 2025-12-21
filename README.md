@@ -1,148 +1,139 @@
-[![Nymph Nerds Production Banner](./THE-banner-mod-page.gif)](https://discord.gg/V6qa82Spxw)
-
 # Nordic Gleam Core
-*A Nymph Nerds Production*
-
 ![Main Menu](./main-menu.png)
 
-## Description
-**Nordic Gleam Core** reimagines Skyrim through a *lore-friendly, survival-focused lens*.  
-Built for players who crave challenge and immersion, this list enhances the vanilla experience with **PBR visuals**, **upscaled assets**, and **minimal landscape edits**—keeping Skyrim's soul intact while bringing it into a new generation.  
-Expect tougher hunting, harsher survival, and subtle world changes that make everything feel *fresh yet familiar*.
+**Nordic Gleam Core** is a large, gameplay-focused Skyrim Special Edition / Anniversary Edition modlist foundation built around **Community Shaders and Physically Based Rendering (PBR)**.
+
+Rather than relying on ENB, this list uses modern shader technology and optimized PBR assets to achieve a clean, realistic visual presentation while maintaining **strong performance and stability**. The result is a visually modern Skyrim that does not sacrifice gameplay depth or frame consistency.
+
+Nordic Gleam Core is designed as a **complete gameplay and rendering foundation** — substantial in size, carefully curated, and intended for long-term play or further expansion.
 
 ---
 
-## 📚 Guides Hub
+## Visual & Technical Direction
 
-We've written clear step-by-step guides to help you install and customize Nordic Gleam Core.
+* **Community Shaders–based rendering**
+* **Full PBR pipeline** for landscapes, architecture, and world assets
+* **2K texture baseline** for optimal balance between fidelity and performance
+* No ENB dependency
+* Performance-oriented asset selection
+* Modern lighting and material response without excessive overhead
 
-👉 **[Start here: Guides Hub](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/GUIDES.md)**
-
-### Current Guides:
-- **[Installation Guide](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/INSTALLATION.md)** — Complete walkthrough for setting up Nordic Gleam Core  
-- **[CS Guide](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/CSGUIDE.md)** — Customization and Settings guide  
-- **[Performance Guide](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/PERFORMACE.md)** — Optimization tips for your system  
-- **[ParallaxGen Guide](https://github.com/CageTV/Nordic-Gleam-Core/blob/main/.github/PARALLAXGEN.md)** — Parallax mapping setup and configuration  
-
-> More guides are coming soon — this section will grow as the list evolves!
+This is a **large download**, but every asset is chosen with purpose: visual consistency, modern rendering, and long-term stability.
 
 ---
 
-## Things To Do
-- Survive the northern wilderness using food, warmth, and skill.  
-- Earn your keep through hunting, crafting, and trade.  
-- Experience new environmental storytelling through subtle world tweaks.  
-- Discover enhanced visual fidelity while keeping lore and atmosphere intact.  
-- Push through Nordic trials to master a more punishing yet rewarding Skyrim.
+## Design Philosophy
+
+Nordic Gleam Core follows these core principles:
+
+* **Gameplay First** – Visuals support gameplay, not replace it
+* **Modern Rendering, Classic Identity** – Skyrim remains recognizably Nordic
+* **Performance-Conscious** – Visual upgrades without unnecessary bloat
+* **Meaningful Progression** – Power is earned, not given
+* **Survival & Consequence** – Preparation matters
 
 ---
 
-## 🛠️ System Requirements
+## Core Gameplay Pillars
+
+### Skills & Progression
+
+* Set of Skills
+* Complete Alchemy & Cooking Overhaul
+* Complete Crafting Overhaul Remastered
+
+### Combat & Difficulty
+
+* Engaging Combat – Keep Combat Dynamic at Higher Levels
+* Time-Based Enemy Scaling
+* Level Scaling_separator
+* WGO – Warrior Gameplay Overhaul SSE
+
+### World Interaction & Consequences
+
+* Corruption – Abusing Artifacts Has Consequences
+* Honed Metal
+
+### Survival & Wilderness
+
+* Campfire
+* Frostfall
+* Huntsman – A Hunting Expansion
+
+---
+
+## Who This Modlist Is For
+
+Nordic Gleam Core is ideal for players who want:
+
+* A **modern-looking Skyrim without ENB**
+* Community Shaders + PBR visuals
+* Strong performance on mid-to-high-end systems
+* Deep gameplay and survival mechanics
+* A stable, expandable gameplay and rendering base
+
+---
+
+## What This Modlist Is NOT
+
+* Not an ENB showcase
+* Not an ultra-HD 4K/8K texture pack
+* Not a lightweight “vanilla+” list
+* Not a power fantasy
+
+This is a **substantial, systems-driven foundation** — visually modern, gameplay-heavy, and performance-aware.
+
+---
+
+## Status
+
+Actively curated. Intended as a long-term Community Shaders + PBR gameplay core.
+
+---
+
+## System Requirements
+
+### Minimum
+- **CPU:** Intel i5 or equivalent  
+- **RAM:** 16 GB (32 GB recommended)  
+- **GPU:** NVIDIA 3060 Ti or better  
+- **Storage:** 290 GB free disk space  
+  - 185 GB for game files  
+  - 98 GB for downloads (can be deleted after installation)  
 
 ### Game Version
 Requires **Skyrim Anniversary Edition 1.6.1170 (Full AE)**
 
-| | **Minimum (1080p)** | **Recommended (1440p+)** |
-|---|---|---|
-| **CPU** | Intel 10th Gen / Ryzen 5 or higher | Intel 13th Gen / Ryzen 7600X or higher |
-| **GPU** | NVIDIA RTX 3060 Ti 8GB / Radeon RX 6800 or higher | NVIDIA RTX 4070 Ti 12GB / Radeon RX 7900XT or higher |
-| **RAM** | 32 GB System RAM | 32 GB System RAM |
-| **Storage** | SSD/NVME - 190GB Install, ~102GB Downloads | SSD/NVME - 190GB Install, ~102GB Downloads |
-
 ---
 
 ## System Preparation
+Please prepare your system before running Wabbajack to ensure stability:
 
-Before running Wabbajack, prepare your system to ensure stability and compatibility:
-
-1. **Increase your Windows pagefile** (≥ 20 GB recommended) to improve stability.  
-
-2. **Install required dependencies:**
-   - Latest **Visual C++ Redistributables**  
-   - **.NET 4.8, .NET 8, and .NET 9** (required for Wabbajack)
-
-3. **Configure antivirus:** Exclude your Wabbajack and Skyrim folders from antivirus scanning.  
-
-4. **Steam Settings & Skyrim SE Setup:**
-   - First, **install Skyrim Special Edition** via Steam if you haven't already.  
-   - **Launch Skyrim SE once** to download all **Creation Club content**. Wait for the main menu to appear.  
-   - **Close Skyrim SE** completely.  
-   - **Verify game files:** In your Steam Library, right-click *Skyrim SE* → *Properties* → *Installed Files* → **Verify integrity of game files**. Wait for verification to complete.  
-   - **Configure Steam Settings:**
-     - Disable the Steam Overlay  
-     - Set game language to **English**  
-     - Disable Steam Cloud Saves  
-     - Right-click *Skyrim SE* → *Properties* → *Updates* → set to **"Only update this game when I launch it"**  
-   - Your **Skyrim SE Steam folder is now ready** for Wabbajack installation.
-
----
-
-## Installation Guide (Wabbajack)
-Follow these steps to install Nordic Gleam Core using **Wabbajack**:
-
-1. Download the latest version of **[Wabbajack](https://www.wabbajack.org/)**.  
-2. Create two folders: one for **installation** and another for **downloads** (avoid placing them in Program Files).  
-3. Open Wabbajack, log in to Nexus Mods when prompted, and locate **Nordic Gleam Core** in the Modlist Gallery.  
-4. Choose your **install** and **downloads** directory paths.  
-5. Click **Start/Run** and allow the process to complete.  
-6. If prompted to manually download mods, use the provided links (see below).  
-7. Once complete, follow the post-installation instructions on screen.  
-
-After installation, launch the game through **ModOrganizer2** located in your installation folder.
+1. Increase your **Windows pagefile** (≥ 20 GB recommended).  
+2. Install the latest **Visual C++ Redistributables** and **.NET Runtime**.  
+3. **Exclude** your Wabbajack and Skyrim folders from antivirus scanning.  
+4. In **Steam Settings**:
+   - Disable the Steam Overlay  
+   - Set game language to English  
+   - Disable Steam Cloud Saves  
+   - Right-click *Skyrim* → *Properties* → *Updates* → set to “Only update this game when I launch it”
 
 ---
 
 ## Additional Manual Downloads
-These files must be downloaded manually and placed in your Wabbajack **downloads** folder before installation:
+The following files must be downloaded manually and placed in your Wabbajack **downloads** folder before installation:
 
 - [Dodge MCO DXP v2.1.21](https://www.distaranimation.com/s/Dodge-MCO-DXP-v2121.zip)  
 - [SkyBirds SSE Edition v1.20](https://www.dropbox.com/scl/fi/tcbysvimqxajud8kp0bch/skyBirds-SSE-Edition-v1.20.7z?e=3&file_subpath=%2FData&rlkey=ts21h3253wspto4qe2htb4uh1&dl=0)
 
 ---
 
-## 📋 Updates & Changelog
-
-Track all updates, bug fixes, and changes to Nordic Gleam Core:
-
-- **[Changelog](./changelog.md)** — Detailed list of all version updates, features added, mods updated, and fixes applied  
-- **[Versions](./versions.json)** — Machine-readable version history and metadata for automated tools  
-
-Check these files regularly to stay informed about improvements and new features!
-
----
-
 ## Current Status
 **Status:** Alpha  
 **License:** [MIT License](./LICENSE)  
-**Discord:** [Join the Nymph Nerds Community](https://discord.gg/V6qa82Spxw)  
+**Discord:** [Join the community](https://discord.gg/ezJVqBJvVj)  
 **Download:** Available on [Nexus Mods](https://www.nexusmods.com/)  
 
-> *A collaborative Skyrim modlist — immersive, magical, and consent-driven.*  
-> **Questions, comments, or support?** Join our [Discord Server](https://discord.gg/V6qa82Spxw).
-
----
-
-## 👥 Contributors & Credits
-
-**Built with 💚 by babyjaws, Rauty79, & Julio005 — Nymph Nerds Production**
-
-Nordic Gleam Core would not exist without the creativity and hard work of the Skyrim modding community.
-
-### Core Team
-- **babyjaws** — List development & curation  
-- **Rauty79** — Design & coordination  
-- **Julio005** — List development & curation  
-
-### Special Thanks
-Enormous thanks to our dedicated testers and supporters who helped shape this list:
-- **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie** — Testing, feedback, and invaluable support  
-- **Discord Community** — Constant encouragement, ideas, and engagement  
-
-### Acknowledgements
-- The **Wabbajack Team** for developing the automation tools that make this possible.  
-- **Bethesda Game Studios** for the foundation we continue to expand upon.  
-- **All mod authors** whose creations enrich this list and keep Skyrim thriving 🌿  
-
-If your mod or work is featured in this list and you would like to be credited directly, please open an issue or reach out on Discord.
+> *A collaborative Skyrim modlist — immersive, magical, and consent-driven.*
 
 ---
